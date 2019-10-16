@@ -83,6 +83,8 @@
                 <div class="title m-b-md">
                     Laravel Hello
                 </div>
+                <h1>Nicolas Gonzalez Vallejo    </h1>
+
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
